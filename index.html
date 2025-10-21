@@ -1,0 +1,654 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sri Lankan Law Archive</title>
+    <style>
+        :root {
+            --bg-primary: #0d1117;
+            --bg-secondary: #161b22;
+            --bg-tertiary: #21262d;
+            --border-color: #30363d;
+            --text-primary: #c9d1d9;
+            --text-secondary: #8b949e;
+            --text-muted: #6e7681;
+            --accent-primary: #58a6ff;
+            --accent-hover: #1f6feb;
+            --success: #3fb950;
+            --warning: #d29922;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            line-height: 1.6;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        header {
+            background-color: var(--bg-secondary);
+            border-bottom: 1px solid var(--border-color);
+            padding: 24px;
+            margin-bottom: 24px;
+            border-radius: 6px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+        }
+
+        h1 {
+            text-align: center;
+            color: var(--text-primary);
+            font-size: 28px;
+            font-weight: 600;
+            margin-bottom: 24px;
+            letter-spacing: -0.5px;
+        }
+
+        .navigation {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        .navigation select {
+            padding: 8px 12px;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            font-size: 14px;
+            background-color: var(--bg-tertiary);
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s ease;
+            min-width: 200px;
+        }
+
+        .navigation select:hover {
+            border-color: var(--accent-primary);
+            background-color: var(--bg-secondary);
+        }
+
+        .navigation select:focus {
+            outline: none;
+            border-color: var(--accent-primary);
+            box-shadow: 0 0 0 3px rgba(88, 166, 255, 0.1);
+        }
+
+        .alpha-index {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            justify-content: center;
+            padding: 12px 0;
+        }
+
+        .alpha-index a {
+            text-decoration: none;
+            color: var(--text-secondary);
+            font-weight: 500;
+            padding: 6px 10px;
+            border: 1px solid var(--border-color);
+            border-radius: 6px;
+            transition: all 0.2s ease;
+            font-size: 14px;
+        }
+
+        .alpha-index a:hover {
+            background-color: var(--bg-tertiary);
+            border-color: var(--accent-primary);
+            color: var(--accent-primary);
+        }
+
+        .alpha-index a.active {
+            background-color: var(--accent-primary);
+            color: #fff;
+            border-color: var(--accent-primary);
+        }
+
+        #content-container {
+            margin-top: 24px;
+            background-color: var(--bg-secondary);
+            border-radius: 6px;
+            padding: 24px;
+            border: 1px solid var(--border-color);
+            min-height: 400px;
+        }
+
+        .law-metadata {
+            background-color: var(--bg-tertiary);
+            border: 1px solid var(--border-color);
+            padding: 24px;
+            border-radius: 6px;
+            margin-bottom: 32px;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+
+        .law-metadata h2 {
+            margin-top: 0;
+            margin-bottom: 16px;
+            border-bottom: 2px solid var(--accent-primary);
+            padding-bottom: 12px;
+            color: var(--text-primary);
+            font-size: 22px;
+            font-weight: 600;
+        }
+
+        .law-metadata p {
+            margin: 8px 0;
+            color: var(--text-secondary);
+            font-size: 14px;
+        }
+
+        .law-metadata strong {
+            display: inline-block;
+            min-width: 180px;
+            color: var(--text-primary);
+        }
+
+        .division {
+            margin-top: 48px;
+            padding-top: 24px;
+            border-top: 2px solid var(--border-color);
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+
+        .division-title {
+            font-size: 20px;
+            font-weight: 600;
+            text-align: center;
+            margin-bottom: 24px;
+            color: var(--accent-primary);
+        }
+
+        .section {
+            margin-bottom: 32px;
+            position: relative;
+            padding-left: 120px;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+
+        .section-header {
+            display: flex;
+            align-items: baseline;
+            gap: 12px;
+            font-weight: 600;
+            font-size: 16px;
+            margin-bottom: 12px;
+            color: var(--accent-primary);
+        }
+
+        .marginal-note {
+            position: absolute;
+            left: -24px;
+            top: 0;
+            width: 120px;
+            font-size: 12px;
+            color: var(--text-muted);
+            font-style: italic;
+            text-align: right;
+            padding-right: 16px;
+        }
+
+        .content-block {
+            margin-bottom: 12px;
+            font-size: 14px;
+            line-height: 1.7;
+        }
+
+        .content-block .content-block {
+            margin-left: 2em;
+            margin-top: 12px;
+        }
+
+        .subsection > .text::before {
+            content: attr(data-identifier);
+            font-weight: 600;
+            margin-right: 0.5em;
+            color: var(--warning);
+        }
+
+        .proviso {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+
+        .note {
+            font-size: 13px;
+            color: var(--text-muted);
+            margin-bottom: 8px;
+        }
+
+        .schedule {
+            margin-top: 48px;
+            padding: 24px;
+            border: 1px solid var(--border-color);
+            background-color: var(--bg-tertiary);
+            border-radius: 6px;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+
+        .schedule-title {
+            font-size: 18px;
+            font-weight: 600;
+            text-align: center;
+            color: var(--accent-primary);
+            margin-bottom: 12px;
+        }
+
+        .schedule-reference {
+            text-align: center;
+            font-style: italic;
+            color: var(--text-muted);
+            margin-bottom: 20px;
+            font-size: 14px;
+        }
+
+        .schedule-part-title {
+            font-weight: 600;
+            margin-top: 24px;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 8px;
+            color: var(--text-primary);
+        }
+
+        .schedule table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+            font-size: 14px;
+        }
+
+        .schedule th,
+        .schedule td {
+            border: 1px solid var(--border-color);
+            padding: 10px;
+            text-align: left;
+        }
+
+        .schedule th {
+            background-color: var(--bg-secondary);
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .schedule td {
+            color: var(--text-secondary);
+        }
+
+        .amendment-instruction {
+            padding: 16px;
+            border-left: 4px solid var(--accent-primary);
+            background: var(--bg-tertiary);
+            margin-bottom: 20px;
+            border-radius: 4px;
+            font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+        }
+
+        .amendment-instruction .action {
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .amendment-instruction .target {
+            font-style: italic;
+            color: var(--text-secondary);
+        }
+
+        #placeholder {
+            text-align: center;
+            color: var(--text-muted);
+            padding: 60px 20px;
+            font-size: 16px;
+        }
+
+        /* Scrollbar styling */
+        ::-webkit-scrollbar {
+            width: 12px;
+            height: 12px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: var(--bg-primary);
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: var(--bg-tertiary);
+            border-radius: 6px;
+            border: 2px solid var(--bg-primary);
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: var(--border-color);
+        }
+
+        /* Select dropdown arrow */
+        .navigation select {
+            appearance: none;
+            background-image: url("data:image/svg+xml,%3Csvg width='12' height='12' viewBox='0 0 12 12' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M2.5 4.5L6 8L9.5 4.5' stroke='%238b949e' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+            background-repeat: no-repeat;
+            background-position: right 12px center;
+            padding-right: 36px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Sri Lankan Legal Archive</h1>
+            <div class="navigation">
+                <select id="year-select">
+                    <option value="">Select Year</option>
+                </select>
+                <select id="act-select">
+                    <option value="">Select an Act or Ordinance</option>
+                </select>
+            </div>
+            <div id="alpha-index" class="alpha-index"></div>
+        </header>
+
+        <main id="content-container">
+            <div id="placeholder">
+                <p>Please select a law from the menus above or the index to view its content.</p>
+            </div>
+        </main>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            const yearSelect = document.getElementById('year-select');
+            const actSelect = document.getElementById('act-select');
+            const alphaIndex = document.getElementById('alpha-index');
+            const contentContainer = document.getElementById('content-container');
+            let laws = [];
+
+            async function init() {
+                try {
+                    const response = await fetch('manifest.json');
+                    if (!response.ok) throw new Error('Network response was not ok.');
+                    laws = await response.json();
+
+                    laws = laws.map(law => ({
+                        ...law,
+                        title: toTitleCase(law.title)
+                    }));
+
+                    laws.sort((a, b) => a.title.localeCompare(b.title));
+
+                    populateYearSelect();
+                    populateAlphaIndex();
+                    populateActSelect();
+                } catch (error) {
+                    contentContainer.innerHTML = `<p style="color: #f85149; text-align: center;">Error: Could not load manifest.json. Please ensure the file exists and is correctly formatted.</p>`;
+                    console.error('Failed to load manifest:', error);
+                }
+
+                yearSelect.addEventListener('change', handleYearChange);
+                actSelect.addEventListener('change', handleActChange);
+            }
+
+            function populateYearSelect() {
+                const years = [...new Set(laws.map(law => law.year))].sort((a, b) => b - a);
+                years.forEach(year => {
+                    const option = document.createElement('option');
+                    option.value = year;
+                    option.textContent = year;
+                    yearSelect.appendChild(option);
+                });
+            }
+
+            function populateActSelect(filteredLaws = laws) {
+                actSelect.innerHTML = '<option value="">Select an Act or Ordinance</option>';
+                filteredLaws.forEach((law, index) => {
+                    const option = document.createElement('option');
+                    option.value = law.file;
+                    option.textContent = law.title;
+                    actSelect.appendChild(option);
+                });
+            }
+
+            function populateAlphaIndex() {
+                const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
+                alphabet.forEach(letter => {
+                    const link = document.createElement('a');
+                    link.href = '#';
+                    link.textContent = letter;
+                    link.dataset.letter = letter;
+                    link.addEventListener('click', handleAlphaClick);
+                    alphaIndex.appendChild(link);
+                });
+            }
+
+            function handleYearChange() {
+                const selectedYear = yearSelect.value;
+                const filteredLaws = selectedYear ? laws.filter(law => law.year === selectedYear) : laws;
+                populateActSelect(filteredLaws);
+                resetAlphaIndex();
+            }
+            
+            function handleActChange() {
+                const selectedFile = actSelect.value;
+                if (selectedFile) {
+                    loadAndRenderLaw(selectedFile);
+                } else {
+                    contentContainer.innerHTML = `<div id="placeholder"><p>Please select a law to view.</p></div>`;
+                }
+            }
+            
+            function handleAlphaClick(e) {
+                e.preventDefault();
+                const letter = e.target.dataset.letter;
+                
+                resetAlphaIndex();
+                e.target.classList.add('active');
+                
+                const filteredLaws = laws.filter(law => law.title.trim().toUpperCase().startsWith(letter));
+                populateActSelect(filteredLaws);
+                yearSelect.value = "";
+            }
+            
+            function resetAlphaIndex() {
+                alphaIndex.querySelectorAll('a').forEach(a => a.classList.remove('active'));
+            }
+
+            function toTitleCase(str) {
+                return str.toLowerCase().replace(/\b\w/g, function(txt) {
+                    return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase();
+                });
+            }
+
+            async function loadAndRenderLaw(fileName) {
+                contentContainer.innerHTML = `<p>Loading...</p>`;
+
+                try {
+                    const response = await fetch(`json/${fileName}`);
+                    if (!response.ok) throw new Error(`Failed to load json/${fileName}`);
+                    const lawData = await response.json();
+
+                    contentContainer.innerHTML = '';
+                    renderMetadata(lawData.metadata, contentContainer);
+                    renderBody(lawData.body, contentContainer);
+                } catch (error) {
+                    contentContainer.innerHTML = `<p style="color: #f85149;">Error loading law: ${error.message}</p>`;
+                }
+            }
+            
+            function renderMetadata(metadata, container) {
+                const metadataHtml = `
+                    <div class="law-metadata">
+                        <h2>${metadata.title}</h2>
+                        ${metadata.act_number ? `<p><strong>Act/Ordinance No:</strong> ${metadata.act_number}</p>` : ''}
+                        ${metadata.document_subtype ? `<p><strong>Type:</strong> ${metadata.document_subtype}</p>` : ''}
+                        ${metadata.enactment_date ? `<p><strong>Enactment Date:</strong> ${metadata.enactment_date}</p>` : ''}
+                        ${metadata.publication_date ? `<p><strong>Publication Date:</strong> ${metadata.publication_date}</p>` : ''}
+                        ${metadata.amended_up_to ? `<p><strong>Revised Edition (Amended up to):</strong> ${metadata.amended_up_to}</p>` : ''}
+                        ${metadata.description ? `<p><strong>Description:</strong> ${metadata.description}</p>` : ''}
+                        ${metadata.preamble_text ? `<p><strong>Preamble:</strong> <em>${metadata.preamble_text}</em></p>` : ''}
+                        ${metadata.amends ? `<p><strong>Amends:</strong> ${metadata.amends}</p>` : ''}
+                    </div>
+                `;
+                container.insertAdjacentHTML('beforeend', metadataHtml);
+            }
+
+            function renderBody(body, container) {
+                body.forEach(element => {
+                    const elDiv = document.createElement('div');
+                    
+                    if (element.type === 'Chapter' || element.type === 'Part') {
+                        elDiv.className = 'division';
+                        elDiv.innerHTML += `<div class="division-title">${element.division_number ? `${element.division_number}. ` : ''}${element.division_title}</div>`;
+                        element.sections.forEach(section => elDiv.appendChild(renderSection(section)));
+                    } else if (element.type === 'MainBody') {
+                        element.sections.forEach(section => elDiv.appendChild(renderSection(section)));
+                    } else if (element.type === 'AmendmentBody') {
+                        elDiv.appendChild(renderAmendmentBody(element.instructions));
+                    } else if (element.type === 'Schedule') {
+                        elDiv.appendChild(renderSchedule(element));
+                    }
+                    container.appendChild(elDiv);
+                });
+            }
+
+            function renderSection(section) {
+                const sectionDiv = document.createElement('div');
+                sectionDiv.className = 'section';
+                
+                if (section.marginal_note) {
+                    sectionDiv.innerHTML += `<div class="marginal-note">${section.marginal_note}</div>`;
+                }
+
+                const header = document.createElement('div');
+                header.className = 'section-header';
+                header.innerHTML = `<span class="section-number">${section.section_number}.</span>`;
+                sectionDiv.appendChild(header);
+
+                if (section.note) {
+                    sectionDiv.innerHTML += `<div class="note">${section.note}</div>`;
+                }
+
+                section.content.forEach(block => {
+                    sectionDiv.appendChild(renderContentBlock(block));
+                });
+                return sectionDiv;
+            }
+
+            function renderContentBlock(block) {
+                const blockDiv = document.createElement('div');
+                blockDiv.className = `content-block ${block.type}`;
+
+                const textDiv = document.createElement('div');
+                textDiv.className = 'text';
+                if (block.identifier) {
+                    textDiv.dataset.identifier = block.identifier;
+                }
+                textDiv.textContent = block.text;
+                
+                if (block.note) {
+                    blockDiv.innerHTML += `<div class="note">${block.note}</div>`;
+                }
+                if (block.sub_marginal_note) {
+                    blockDiv.innerHTML += `<div class="marginal-note">${block.sub_marginal_note}</div>`;
+                }
+
+                blockDiv.appendChild(textDiv);
+
+                if (block.children && block.children.length > 0) {
+                    block.children.forEach(child => {
+                        blockDiv.appendChild(renderContentBlock(child));
+                    });
+                }
+                return blockDiv;
+            }
+
+            function renderAmendmentBody(instructions) {
+                const container = document.createElement('div');
+                instructions.forEach(inst => {
+                    const instDiv = document.createElement('div');
+                    instDiv.className = 'amendment-instruction';
+                    instDiv.innerHTML = `<p><span class="action">Action in Section ${inst.amendment_section}:</span> ${inst.action}</p>
+                                       <p><span class="target">Target: ${inst.target}</span></p>`;
+                    if(inst.details) {
+                        instDiv.innerHTML += `<p><em>Details: ${inst.details}</em></p>`;
+                    }
+                    
+                    if (inst.content && inst.content.length > 0) {
+                        const contentDiv = document.createElement('div');
+                        contentDiv.innerHTML = '<strong>New Content:</strong>';
+                        inst.content.forEach(item => {
+                            if(item.sections) {
+                                item.sections.forEach(sec => contentDiv.appendChild(renderSection(sec)));
+                            } else {
+                                contentDiv.appendChild(renderSection(item));
+                            }
+                        });
+                        instDiv.appendChild(contentDiv);
+                    }
+                    container.appendChild(instDiv);
+                });
+                return container;
+            }
+
+            function renderSchedule(schedule) {
+                const scheduleDiv = document.createElement('div');
+                scheduleDiv.className = 'schedule';
+                
+                scheduleDiv.innerHTML += `<h3 class="schedule-title">${schedule.schedule_number || ''}</h3>`;
+                if(schedule.schedule_reference) {
+                    scheduleDiv.innerHTML += `<p class="schedule-reference">${schedule.schedule_reference}</p>`;
+                }
+                if(schedule.schedule_title) {
+                    scheduleDiv.innerHTML += `<p class="schedule-reference">${schedule.schedule_title}</p>`;
+                }
+
+                if (schedule.schedule_type === 'table') {
+                    scheduleDiv.appendChild(renderScheduleTable(schedule.content));
+                } else {
+                    schedule.content.forEach(part => {
+                        if (part.part_title) {
+                            scheduleDiv.innerHTML += `<h4 class="schedule-part-title">${part.part_title}</h4>`;
+                        }
+                        part.items.forEach(item => scheduleDiv.appendChild(renderContentBlock(item)));
+                    });
+                }
+                return scheduleDiv;
+            }
+            
+            function renderScheduleTable(content) {
+                const table = document.createElement('table');
+                let theadHtml = '<thead><tr>';
+                content.headers.forEach(h => theadHtml += `<th>${h}</th>`);
+                theadHtml += '</tr></thead>';
+                table.innerHTML = theadHtml;
+
+                const tbody = document.createElement('tbody');
+                content.rows.forEach(row => {
+                    let rowHtml = '<tr>';
+                    content.headers.forEach(header => {
+                        rowHtml += `<td>${row[header] || ''}</td>`;
+                    });
+                    rowHtml += '</tr>';
+                    tbody.innerHTML += rowHtml;
+                });
+                table.appendChild(tbody);
+                return table;
+            }
+            
+            init();
+        });
+    </script>
+</body>
+</html>

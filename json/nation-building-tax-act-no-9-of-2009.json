@@ -1,0 +1,766 @@
+{
+  "metadata": {
+    "title": "NATION BUILDING TAX ACT, No. 9 OF 2009",
+    "document_type": "Act",
+    "document_subtype": null,
+    "act_number": "9 of 2009",
+    "ordinance_number": null,
+    "publication_date": "2009-03-13",
+    "enactment_date": "2009-03-11",
+    "amended_up_to": null,
+    "description": "AN ACT TO PROVIDE FOR THE IMPOSITION AND COLLECTION OF A TAX TO BE CALLED THE NATION BUILDING TAX ON THE LIABLE TURNOVER OF EVERY PERSON TO WHOM THIS ACT APPLIES; AND TO PROVIDE FOR MATTERS CONNECTED THEREWITH OR INCIDENTAL THERETO.",
+    "preamble_text": "BE it enacted by the Parliament of the Democratic Socialist Republic of Sri Lanka as follows:—",
+    "amends": null,
+    "interpretations": [
+      {
+        "term": "article",
+        "definition": "includes any goods, material or any agricultural or horticultural produce, but does not include any excepted article specified in Part I of the Schedule to this Act;",
+        "source_section": "10"
+      },
+      {
+        "term": "body of persons",
+        "definition": "“business”, “Commissioner General” and “company” shall have the same respective meanings which they have in the Inland Revenue Act;",
+        "source_section": "10"
+      },
+      {
+        "term": "Inland Revenue Act",
+        "definition": "means the Inland Revenue Act, No. 10 of 2006 ;",
+        "source_section": "10"
+      },
+      {
+        "term": "manufacture",
+        "definition": "means any process for—\n(i) making an article;\n(ii)assembling or joining any article whether by chemical process or otherwise;\n(iii) adapting for sale any article;\n(iv)packaging, bottling, putting into boxes, cutting into pieces, cleaning, polishing, wrapping, labeling, or in any other way whatsoever preparing for sale any article otherwise than in a retail stores for the purpose of sale in such store exclusively and directly to the consumer;",
+        "source_section": "10"
+      },
+      {
+        "term": "person",
+        "definition": "includes any company, body of persons or any partnership;",
+        "source_section": "10"
+      },
+      {
+        "term": "quarter",
+        "definition": "means the period of three months commencing on the first day of January, April, July or October of any year:\nProvided that the quarter which commences on the first of February 2009 shall comprise two months;",
+        "source_section": "10"
+      },
+      {
+        "term": "service",
+        "definition": "does not include any excepted service specified in Part II of the Schedule to this Act; and",
+        "source_section": "10"
+      },
+      {
+        "term": "year",
+        "definition": "means a calendar year.",
+        "source_section": "10"
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "Part",
+      "division_number": "I",
+      "division_title": "Main Body",
+      "sections": [
+        {
+          "section_number": "1",
+          "marginal_note": "Short Title.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "This Act may be cited as the Nation Building Tax Act, No. 9 of 2009 and shall come into operation on February1, 2009.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "marginal_note": "Person to whom this Act applies.",
+          "note": null,
+          "content": [
+            {
+              "type": "subsection",
+              "identifier": "(1)",
+              "text": "The provisions of this Act shall apply to every person who—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(a)",
+                  "text": "imports of any article, other than any article comprised in the personal baggage of the passenger,into Sri Lanka, [“baggage” shall have the same meaning as in section 107A of the Customs Ordinance (Chapter 235)]; or",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(b)",
+                  "text": "carries on the business of manufacture of any article;or",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(c)",
+                  "text": "carries on the business of providing a service of any description.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "identifier": "(2)",
+              "text": "Every person referred to in subsection (1) shall, hereafter in this Act, be referred to as “person to whom thisAct applies”.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "3",
+          "marginal_note": "Imposition of a Nation Building Tax.",
+          "note": null,
+          "content": [
+            {
+              "type": "subsection",
+              "identifier": "(1)",
+              "text": "A tax to be called the “Nation Building Tax” (hereinafter referred to as “the Tax”) shall, subject to the provisions of this Act, be charged from every person to whom this Act applies calculated at the rate of one per centum, in the following manner:—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "in the case of a person referred to in paragraph ( a) of subsection (1) of section 2, who imports any article into Sri Lanka on or after January1, 2009 the tax shall be chargeable in respect of the liable turnover of such person arising from the importation into Sri Lanka of such article; and",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "in the case of a person referred to in paragraph ( b) or (c) of subsection (1) of section 2, for every quarter commencing on or after January 1, 2009 (hereinafter referred to as “relevant quarter”, the tax shall be chargeable in respect of the liable turnover of such person for such relevant quarter.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "identifier": "(2)",
+              "text": "In this section “liable turnover”—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "with reference to any person referred to in paragraph (a) of subsection (1) of section 2 arising from the importation of any article, means the value of that article ascertained for the purpose of Value Added Tax under section 6 of the Value Added Tax Act, No. 14 of 2002;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "with reference to any person and to any relevant quarter referred to in paragraph ( b) of subsection (1) of section 2, means the sum receivable whether received or not from the sale in Sri Lanka, in that quarter, of every article manufactured by such person;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iii)",
+                  "text": "with reference to any person referred to in paragraph (c) of subsection (1) of section 2 and to any relevant quarter means the sum receivable, whether received or not, from the provision in Sri Lanka of any service referred to in that paragraph.",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "identifier": "(3)",
+              "text": "Notwithstanding the provisions of subsection (2), the liable turnover for any relevant quarter of any person to whom this Act applies, referred to in paragraph (ii) or (iii) of that section shall not include—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "any bad debt incurred by such person in that quarter;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "any value added tax under the Value Added Tax Act, No. 14 of 2002 paid in that relevant quarter;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iii)",
+                  "text": "any excise duty under the Excise Duty (Special Provisions) Act, No. 13 of 1989, paid in that quarter:",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Provided however, any bad debt recovered in any relevant quarter, shall be included in the relevant turnover of that relevant quarter.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(4)",
+              "text": "Notwithstanding the provisions of subsection (1), the tax shall not be chargeable from any person referred to in paragraph ( b) or paragraph ( c) of subsection (1) of section 2, for any relevant quarter if—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "liable turnover of such person for that relevant quarter does not exceeds the sum of six hundred and fifty thousand rupees;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "such person has paid for that relevant quarter optional Value Added Tax under Chapter III B of the Value Added Tax Act, No. 14 of 2002.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "marginal_note": "Payment of the Tax.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Every person to whom this Act applies, being a person referred to in paragraph ( b) or paragraph ( c) of subsection (1) of section 2 shall, notwithstanding that no assessment has been made on him for any relevant quarter, pay—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "an amount equivalent to one third of the Tax payable for that relevant quarter on or before the twentieth day of the second month of that relevant quarter;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "an amount equivalent to one third of the Tax payable for that relevant quarter on or before the twentieth day of the third month of that relevant quarter; and",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iii)",
+                  "text": "an amount equivalent to the balance of the Tax payable for that relevant quarter on or before the twentieth day of the month immediately succeeding the end of that relevant quarter,",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "to the Commissioner General, in such manner as may be specified by him in that behalf.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "For the purpose of this section the expression “one third of the tax payable” in relation to any relevant quarter means one third of the Tax calculated on the sum estimated by such person to be the liable turnover for that relevant quarter.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "5",
+          "marginal_note": "Collection of the Tax by the Director General of Customs.",
+          "note": null,
+          "content": [
+            {
+              "type": "subsection",
+              "identifier": "(1)",
+              "text": "The Director General of Customs shall collect from every person referred to in paragraph ( a) of subsection (1) of section 2, the tax chargeable from such person in respect of every article imported by such person, at the time such article is imported, and shall make an endorsement on the import invoice relating to such article specifying the amount so collected.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(2)",
+              "text": "Any amount collected by the Director General of Customs in accordance with the preceding provisions of this section in relation to any article imported by any person to whom this Act applies shall be deemed to be the Tax chargeable in respect of the liable turnover arising from the importation of such article and shall be deemed to have been paid by such person to the Commissioner-General on the day on which such amount was so collected.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(3)",
+              "text": "Any amount collectible under subsection (1) shall for the purpose of collection and recovery of such amount and notwithstanding anything to the contrary in this Act, be deemed to be customs duty chargeable under the Customs Ordinance and accordingly, the provisions of the Customs Ordinance shall apply to the collection and recovery of such amount.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(4)",
+              "text": "Where any article imported into Sri Lanka is sold—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "by the Director General of Customs for the recovery of any duty, levy or any charge collectible under the Customs Ordinance; or",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "by the Sri Lanka Ports Authority established by the Sri Lanka Ports Authority Act, No. 51 of 1979, for the recovery of any dues collectible under that Act; or",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iii)",
+                  "text": "by the Commissioner General,",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "the purchaser of such article shall be deemed to be a person referred to in paragraph ( a) of subsection (1) of section 2, and the provisions of this Act shall apply to him accordingly.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6",
+          "marginal_note": "Credit for Tax paid.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Where any person to whom this Act applies, being a person referred to in paragraph ( b) of subsection (1) of section2—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "is deemed, by virtue of subsection (2) of section 5 to have paid in any relevant quarter, the tax in respect of any article imported by him;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "has paid the tax under section 4 in respect of any article purchase by him from another person referred to in that paragraph,",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "being in either case an article which is used exclusively in his business of manufacture, he shall be entitled to credit for the tax so paid against the tax payable under section 4 for that relevant quarter:",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Provided that where such credit for any relevant quarter exceeds the tax so payable for that quarter, the excess shall be deemed to be an advance payment of the tax made under section 4 for the relevant quarter immediately succeeding that relevant quarter.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "7",
+          "marginal_note": "Notice of chargeability.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Every person to whom this Act applies, being a person referred to in paragraph ( b) or paragraph ( c) of subsection (1) of section (2) whose liable turnover for any relevant quarter exceeds the sum referred to in subsection (4) of section 3, shall give notice in writing to the Commissioner General, of his chargeability to the tax for that quarter, not later than the fifteenth day of the last month of that relevant quarter. The notification shall disclose the name, the postal address, the taxpayer-identification number if any, or the income tax file number if any, and such other information as the Commissioner General may specify by Order published in the Gazette.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "8",
+          "marginal_note": "Certain provisions of the Inland Revenue Act to apply.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The provisions in sections 106, 107, 108 and 112 of Chapter XII relating to Returns etc, Chapter XXII relating to Assessments, Chapter XXIII relating to Appeals, Chapter XXIV relating to Finality of Assessments and Penalty for Incorrect Returns, Chapter XXV relating to Tax in Default and Sums Added Thereto, Chapter XXVI relating to Recovery of Tax, Chapter XXVII relating to Miscellaneous, Chapter XXIX relating to Penalties and Offences, Section 209 of Chapter XXX relating to Administration and Chapter XXXI on General matters, of the Inland Revenue Act, shall mutatis mutandis apply to the furnishing of returns, assessments, appeal against assessments, finality of assessments and penalty for incorrect returns, tax in default and sums added thereto, recovery of tax, miscellaneous, penalties and offences, administration and general matters under this Act subject to the following modifications:—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(a)",
+                  "text": "every reference to the year of assessment in any such provision of the Inland Revenue Act, shall be deemed to be a reference to the “relevant quarter” in this Act;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(b)",
+                  "text": "every reference to assessable income or taxable income in any such provision of the Inland Revenue Act, shall be deemed to be a reference to the “liable turnover” in this Act; and",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(c)",
+                  "text": "every reference to income tax in any such provision of the Inland Revenue Act, shall be deemed to be a reference to the tax charged and levied in terms of the provisions of this Act.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9",
+          "marginal_note": "Sinhala text to prevail in case of inconsistency.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "10",
+          "marginal_note": "Interpretation.",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "In this Act, unless the context otherwise requires,—",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“article” includes any goods, material or any agricultural or horticultural produce, but does not include any excepted article specified in Part I of the Schedule to this Act;",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“body of persons”, “business”, “Commissioner General” and “company” shall have the same respective meanings which they have in the Inland Revenue Act;",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“Inland Revenue Act” means the Inland Revenue Act, No. 10 of 2006 ;",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“manufacture” means any process for—",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(i)",
+                      "text": "making an article;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(ii)",
+                      "text": "assembling or joining any article whether by chemical process or otherwise;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(iii)",
+                      "text": "adapting for sale any article;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(iv)",
+                      "text": "packaging, bottling, putting into boxes, cutting into pieces, cleaning, polishing, wrapping, labeling, or in any other way whatsoever preparing for sale any article otherwise than in a retail stores for the purpose of sale in such store exclusively and directly to the consumer;",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“person” includes any company, body of persons or any partnership;",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“quarter” means the period of three months commencing on the first day of January, April, July or October of any year:\nProvided that the quarter which commences on the first of February 2009 shall comprise two months;",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“service” does not include any excepted service specified in Part II of the Schedule to this Act; and",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“year” means a calendar year.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Schedule",
+      "schedule_number": "SCHEDULE",
+      "schedule_title": null,
+      "schedule_reference": null,
+      "content": [
+        {
+          "part_title": "PART I EXCEPTED ARTICLES",
+          "items": [
+            {
+              "type": "subsection",
+              "identifier": "(i)",
+              "text": "any article exported by the manufacture of such article;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(ii)",
+              "text": "any article not being plant, machinery or fixtures imported by any person exclusively for use in, or for, the manufacture of any article for export;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(iii)",
+              "text": "any article sold to any person to whom this Act applies exporter if the Commissioner General is satisfied, on the production of a letter of credit opened in any bank in Sri Lanka in respect of the export of that article or other documentary evidence that such article has in fact been exported from Sri Lanka;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(iv)",
+              "text": "any article which is imported, if proved to the satisfaction of the Commissioner General of Inland Revenue, that such article is imported to Sri Lanka for—",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(i)",
+                  "text": "display at an exhibition;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(ii)",
+                  "text": "the temporary use in Sri Lanka in any project approved by the Minister;",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iii)",
+                  "text": "for the purposes of repairs to that article to be carried out in Sri Lanka; or",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(iv)",
+                  "text": "any other similar purpose, and is to be re-shipped, within a period of one year from the date of importation of such article to Sri Lanka;",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "type": "subsection",
+              "identifier": "(v)",
+              "text": "any article imported, if proved to the satisfaction of the Director General of Customs, that such article was, prior to its importation, taken out of Sri Lanka for repairs;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(vi)",
+              "text": "any cinematographic film or teledrama produced in Sri Lanka and taken out of Sri Lanka for further processing or printing with the approval of the National Film Corporation;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(vii)",
+              "text": "any spare part imported by any airline or shipping company, if proved to the satisfaction of the Commissioner-General, that such spare part is to be used for the maintenance of any aircraft of ship, used in international traffic and owned or chartered by such airline or shipping company;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(viii)",
+              "text": "any article sold, to the United Nations Organization or to any specialized agency of such organization or to the diplomatic mission of any foreign Government or to any member of the diplomatic staff of such mission or to any other person approved by the Minister on the recommendation of the Minister of Foreign Affairs as being of the status of a diplomatic mission;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(ix)",
+              "text": "any article imported if such article is subject to the Special Commodity Levy charged under the Special Commodity Levy Act, No. 48 of 2007;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(x)",
+              "text": "Fertilizer;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xi)",
+              "text": "Petroleum and Petroleum products;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xii)",
+              "text": "L. P. Gas;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xiii)",
+              "text": "P harmaceuticals; and",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xiv)",
+              "text": "Tea supplied by the Manufacturer being a manufacturer registered with the Sri Lanka Tea Board established by the Sri Lanka Tea Board Law, No. 14 of 1975, to any registered broker for sale at the Colombo Tea Auctions.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "part_title": "PART II EXCEPTED SERVICES",
+          "items": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "the following services—",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(i)",
+              "text": "the business of Banking or Finance;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(ii)",
+              "text": "supply of electricity;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(iii)",
+              "text": "medical services;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(iv)",
+              "text": "supply of water;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(v)",
+              "text": "transport of goods or passengers",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(vi)",
+              "text": "leasing of movable properties;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(vii)",
+              "text": "service of a construction contractor, not being a sub-contractor, insofar as such services are in respect of constructing any building, road, bridge, water supply, drainage or sewerage system, harbour, airport or any infrastructure project in telecommunication or electricity;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(viii)",
+              "text": "services provided to any exporter of any article, being services directly related to improving the quality and character of such article;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(ix)",
+              "text": "the services of sewing garments provided to any exporter of such garments;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(x)",
+              "text": "services of a freight forwarder, shipping agent licensed under the Licensing of Shipping Agents Act, No. 10 of 1972 or courier insofar as such services are in respect of the exporter of any article from Sri Lanka;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xi)",
+              "text": "services provided by a public corporation, insofar as such services are in respect of the export of any article from Sri Lanka;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xii)",
+              "text": "operating a hotel, guest house, restaurant or other similar business, if such hotel, guest house, restaurant or other similar business if such business is registered with the Ceylon Tourist Board;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xiii)",
+              "text": "the services of an auctioneer, broker, insurance agent or commission agent of any local produce;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xiv)",
+              "text": "the services of a travel agent in respect of inbound tours, if such person is registered with the Ceylon Tourist Board;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xv)",
+              "text": "services of a computer software developer in respect of software developed by such person for use wholly outside Sri Lanka and for which payment is received in foreign currency through a bank;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xvi)",
+              "text": "services provided over the Internet, using custom-built software, by an enterprise, exclusively for the provision of such services being services enabling or facilitating the sale of goods, or for the provision of services, by a person in Sri Lanka to person outside Sri Lanka, for payment in foreign currency;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xvii)",
+              "text": "client support services provided over the internet or telephone, by an enterprise, exclusively for the provision of such services, to one or more identified clients outside Sri Lanka, for payment in foreign currency;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xviii)",
+              "text": "the business of life insurance;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xix)",
+              "text": "distribution or production and supply, of any cinematographic films primarily for exhibition in cinemas;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xx)",
+              "text": "exhibiting films in a cinema;",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xxi)",
+              "text": "any service provided to the United Nations Organization or to any specialized agency of such organization or to the diplomatic mission of any foreign Government or to any member of the diplomatic staff of such mission or to any other person approved by the Minister of the recommendation of the Minister of Foreign Affairs as being of the status of a diplomatic mission; and",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(xxii)",
+              "text": "any service rendered in or outside Sri Lanka to any person or partnership outside Sri Lanka for payment in foreign currency if such foreign currency is remitted to Sri Lanka through a bank.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
