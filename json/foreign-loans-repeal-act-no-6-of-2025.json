@@ -1,0 +1,81 @@
+{
+  "metadata": {
+    "title": "FOREIGN LOANS (REPEAL) ACT, No. 6 OF 2025",
+    "document_type": "Act",
+    "act_number": "6 of 2025",
+    "publication_date": "2025-05-23",
+    "enactment_date": "2025-05-23",
+    "description": "AN ACT TO REPEAL THE FOREIGN LOANS ACT, NO. 29 OF 1957",
+    "interpretations": []
+  },
+  "body": [
+    {
+      "type": "Part",
+      "division_number": "I",
+      "division_title": "Main Body",
+      "sections": [
+        {
+          "section_number": "1",
+          "marginal_note": "Short title",
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "This Act may be cited as the Foreign Loans (Repeal) Act, No. 6 of 2025.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "marginal_note": "Repeal of Act, No. 29 of 1957",
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The Foreign Loans Act, No. 29 of 1957 is hereby repealed.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "3",
+          "marginal_note": "Savings",
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Notwithstanding the repeal of the Foreign Loans Act, No. 29 of 1957 (hereinafter referred to as the “Foreign Loans Act”) –",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(a)",
+                  "text": "every agreement relating to a foreign loan, a guarantee relating to a foreign loan and any contract, bond, promissory note or other document required by such agreement or guarantee signed under section 2 of the Foreign Loans Act and in force on the day immediately preceding the date of commencement of this Act shall, in terms of section 38 of the Public Debt Management Act, No. 33 of 2024, be deemed, on and after the date of commencement of this Act, to have been validly signed under the Public Debt Management Act; and",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(b)",
+                  "text": "every order made to give effect to an agreement or guarantee referred to in paragraph ( a), prior to the date of commencement of this Act under section 4 of the Foreign Loans Act, and in force on the day immediately preceding the date of commencement of this Act shall continue to be in force on and after the date of commencement of this Act, until the obligations under the agreement or guarantee referred to in paragraph ( a) are fulﬁlled.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "marginal_note": "Sinhala text to prevail in case of inconsistency",
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "metadata": {
+    "title": "BUDGETARY RELIEF ALLOWANCE OF WORKERS (AMENDMENT) ACT, No. 9 OF 2025",
+    "document_type": "Amendment",
+    "document_subtype": null,
+    "act_number": "9 of 2025",
+    "ordinance_number": null,
+    "publication_date": "2025-07-25",
+    "enactment_date": "2025-07-23",
+    "amended_up_to": null,
+    "description": "An Act to amend the Budgetary Relief Allowance of Workers Act, No. 36 of 2005",
+    "preamble_text": null,
+    "amends": "Budgetary Relief Allowance of Workers Act, No. 36 of 2005",
+    "interpretations": []
+  },
+  "body": [
+    {
+      "type": "AmendmentBody",
+      "division_number": null,
+      "division_title": null,
+      "sections": [
+        {
+          "section_number": "1",
+          "marginal_note": "Short title and date of operation",
+          "note": null,
+          "content": [
+            {
+              "type": "subsection",
+              "identifier": "(1)",
+              "text": "This Act may be cited as the Budgetary Relief Allowance of Workers (Amendment) Act, No. 9 of 2025.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(2)",
+              "text": "The provisions of this Act shall be deemed to have come into operation on April 1, 2025.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "marginal_note": "Amendment of section 3 of Act, No. 36 of 2005",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 3 of the Budgetary Relief Allowance of Workers Act, No. 36 of 2005 is hereby amended in subsection (1) thereof, by the substitution for the words and figures \"With effect from August 1, 2005\", of the words and figures \"For the period commencing on August 1, 2005 and ending on March 31, 2025, \".",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "3",
+          "marginal_note": "Sinhala text to prevail in case of inconsistency",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

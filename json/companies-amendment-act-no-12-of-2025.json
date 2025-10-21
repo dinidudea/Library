@@ -1,0 +1,1564 @@
+{
+  "metadata": {
+    "title": "COMPANIES (AMENDMENT) ACT, No. 12 OF 2025",
+    "document_type": "Amendment",
+    "document_subtype": null,
+    "act_number": "12 of 2025",
+    "ordinance_number": null,
+    "publication_date": "2025-08-07",
+    "enactment_date": "2025-08-04",
+    "amended_up_to": null,
+    "description": "AN ACT TO AMEND THE COMPANIES ACT, NO. 07 OF 2007",
+    "preamble_text": null,
+    "amends": "COMPANIES ACT, NO. 07 OF 2007",
+    "interpretations": [
+      {
+        "term": "beneficial owner",
+        "definition": "means a natural person who ultimately owns or controls ten per cent or more of a company, in whole or in part, through, direct or indirect ownership or control of shares or voting rights or other ownership interest in that company, and also includes a natural person who exercises effective control through other means, and beneficial ownership is to be construed accordingly;",
+        "source_section": "130 J"
+      },
+      {
+        "term": "effective control",
+        "definition": "includes a situation where control is exercised indirectly either through a chain of ownership or by appointment or removal of a director or by any other means of indirect control, such as the ability to take strategic decision that affects the operation of the company, its business practices or general direction of the company.",
+        "source_section": "130 J"
+      }
+    ]
+  },
+  "body": [
+    {
+      "type": "AmendmentBody",
+      "division_number": null,
+      "division_title": null,
+      "sections": [
+        {
+          "section_number": "1",
+          "marginal_note": "Short title and the date of operation",
+          "note": null,
+          "content": [
+            {
+              "type": "subsection",
+              "identifier": "(1)",
+              "text": "This Act may be cited as the Companies (Amendment) Act, No. 12 of 2025.",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(2)",
+              "text": "The provisions of this Act other than the provisions of this section shall come into operation on such date as the Minister may appoint by Order published in the Gazette .",
+              "children": []
+            },
+            {
+              "type": "subsection",
+              "identifier": "(3)",
+              "text": "The provisions of this section shall come into operation on the date on which the Bill becomes an Act of Parliament.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "2",
+          "marginal_note": "Amendment of section 4 of Act, No. 07 of 2007",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 4 of the Companies Act, No. 07 of 2007 (hereinafter referred to as the “principal enactment”) is hereby amended by the repeal of subsection (2) thereof and the substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "A company, other than a company limited by guarantee, may have a single shareholder, who may -",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "be a natural person;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "be a body corporate; or",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(c)",
+                      "text": "be the Secretary to the Treasury holding shares on behalf of the Government of Sri Lanka.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "3",
+          "marginal_note": "Amendment of section 11 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 11 of the principal enactment is hereby amended in subsection (5) thereof by the substitution for the words “ten working days”, of the words “twenty working days”.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "4",
+          "marginal_note": "Amendment of section 51 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 51 of the principal enactment is hereby amended as follows: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(1)",
+                  "text": "by the insertion immediately after subsection (1) thereof, of the following new subsection: -",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(1A)",
+                      "text": "A company shall not issue a share warrant to bearer or bearer share irrespective of whether its articles of association purport to authorise it to do so. For the purposes of this subsection - “share warrant to bearer” means a negotiable instrument whose ownership is determined by possession of the issued physical warrant certificate, and any other similar warrant or instrument without traceability, but does not include –",
+                      "children": [
+                        {
+                          "type": "subsection",
+                          "identifier": "(a)",
+                          "text": "any instrument that only confers rights to subscribe for shares in a company under specified conditions, but not ownership or entitlement to ownership in shares, unless and until the instrument is exercised or redeemed; and",
+                          "children": []
+                        },
+                        {
+                          "type": "subsection",
+                          "identifier": "(b)",
+                          "text": "a dematerialised or registered form of warrant or any other instrument whose owners can be identified; and",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "“bearer share” means a negotiable instrument which may contain the rights specified in section 49 but whose ownership is determined by the simple possession of a physically issued share certificate, and any other similar instrument such as security to the bearer named in section 110(1)(b)(iii), without traceability, but does not include a dematerialised or registered form of share certificate whose owners can be identified.;",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "in sub-paragraph (i) of paragraph (a) of subsection (4) thereof, by the substitution for the words “shares issued;”, of the words “shares issued and names of the persons to whom such shares are issued;”.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "5",
+          "marginal_note": "Insertion of new section 51 A of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The following new section is hereby inserted immediately after section 51 of the principal enactment, which shall have effect as section 51A of the principal enactment:-",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“Duty of the existing holder of any share warrant to bearer or bearer share. 51A. (1) Every holder of any share warrant to bearer or bearer shares shall, within sixty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 inform the issuing company of such fact and provide to the secretary of the company in writing his name, address and other contact details.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "The company shall, upon the receipt of details under subsection (1) maintain a register and record such details forthwith.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Where any holder of any share warrants to bearer or bearer shares fails to comply with the provisions of subsection (1), any rights associated with such share warrants to bearer or bearer shares shall stand nullified at the end of such period specified in that subsection.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(4)",
+                  "text": "Every holder of any share warrants to bearer or bearer shares shall, within sixty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 or upon the nullification under subsection (3), convert such share warrants to bearer or bearer shares to shares in registerable form for the purpose of the shareholder register under the provisions of section 123(1).”.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "6",
+          "marginal_note": "Amendment of section 52 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 52 of the principal enactment is hereby amended by the repeal of subsection (3) thereof, and the substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Upon receipt of the consideration, the company shall make an allotment of the shares within twenty working days of the receipt of such consideration:",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided however, that the period of time specified in this subsection shall not apply in respect of the issuance of shares which are fully paid up from the reserves of the company to all shareholders of the same class in proportion to the number of shares held by each shareholder.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "7",
+          "marginal_note": "Insertion of new division in the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The following new division is hereby inserted immediately after section 130 (SHARE REGISTER) of the principal enactment and shall have effect as a new division of that enactment: -",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“BENEFICIAL OWNERSHIP",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Details of the beneficial ownership of a company to be given to the Registrar. 130 A. (1) Every company incorporated or registered under this Act or any former written law relating to companies (under this heading referred to as the “company”) shall, at the time of incorporation or within twenty working days of the issue of any shares or transfer of shares, give notice to the Registrar in the prescribed form of-",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "the full names and previous full names (if any) as appearing in the identification document of beneficial owners of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "the dates and places of birth, nationalities, countries of residence, and the last known addresses of beneficial owners of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(c)",
+                      "text": "the residential addresses, business addresses, email addresses, and postal addresses of beneficial owners of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(d)",
+                      "text": "the National Identity Card numbers, Tax Identification Numbers, or passport numbers and the countries of issuance of beneficial owners of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(e)",
+                      "text": "the contact details of beneficial owners of the company; and",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(f)",
+                      "text": "a full statement describing the nature and the extent of the beneficial ownership.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Every shareholder shall, within ten working days of the subscription of any shares or transfer of shares give the details specified in subsection (1) to the company.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Every director or secretary of the company shall disclose the details referred to in subsection (1) relating to beneficial owners of the company to the Registrar when such director or secretary becomes aware of such details.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(4)",
+                  "text": "(a) The company shall maintain a register and record the details specified in subsection (1) when it becomes aware of such details and the company shall keep such register of beneficial owners of the company subject to the provisions of paragraph (b) of subsection (3) of section 116 at its registered office.",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "The provisions of section 124 relating to the place of the share register of a company shall mutatis mutandis apply to the register of beneficial owners of the company.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(5)",
+                  "text": "(a) A company shall keep and maintain records of the details of the beneficial owners of the company and the nature and extent of the beneficial ownership of the company for a period of at least ten years after the date on which the record was made.",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "The administrator or liquidator of a company under dissolution and any other person involved in the dissolution of a company shall keep and maintain records of the details of the beneficial owners of the company and the nature and extent of the beneficial ownership of the company for a period of at least five years after the date on which the company is dissolved or otherwise ceases to exist.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(6)",
+                  "text": "The Registrar shall maintain a register to record the details specified in subsection (1).",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(7)",
+                  "text": "The company shall, within fourteen working days upon the receipt of details that a person holds, acquires, or effects a subsequent change of beneficial ownership of a company, notify the Registrar of such details specified in subsection (1).",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(8)",
+                  "text": "Every company shall, subject to the provisions of subsection (7) deliver the details of beneficial owners of the company in a form as may be prescribed together with the annual return of the company under section 131.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(9)",
+                  "text": "The provisions of section 181 relating to the power to require information as to persons interested in shares or debentures shall mutatis mutandis apply to beneficial owners of the company.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(10)",
+                  "text": "Notwithstanding the provisions of subsection (2) of section 262, the provisions of sections 130A to 130 J shall apply to an offshore company incorporated outside Sri Lanka and registered under this Act and an overseas company registered under this Act.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(11)",
+                  "text": "In this section, the expression “former written law relating to companies” means any written law repealed by the Companies Ordinance (Chapter 145) or the Companies Act, No. 17 of 1982 or this Act.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Details to be furnished. 130B. A company or the Registrar shall, upon a request made by the Attorney-General, Financial Intelligence Unit established under the Financial Transactions Reporting Act, No. 6 of 2006, Director-General of Customs, Commissioner-General of Inland Revenue, any public authority having the responsibility for investigating or prosecuting money laundering, terrorist financing or any other criminal offences, any public procurement authority, or any regulatory authority make available the details of the beneficial owners of the company held or submitted under section 130A.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Appointment of a person for safekeeping and making available details. 130 C. (1) A company shall appoint, in a prescribed manner a natural person residing in Sri Lanka as the authorised person who is –",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "responsible for the safe keeping of the register of the beneficial owners of the company; and",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "authorised by the company to make the details of the beneficial owners of the company recorded in terms of section 130A available to the person or authority specified in section 130B.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "The company shall disclose the details of the authorised person referred to in subsection (1) at the time of incorporation and any subsequent changes to such authorised person in a form as may be prescribed.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Every company incorporated or registered under the Companies Act, No. 07 of 2007 or any former written law relating to companies shall, within a period of three months from the date of operation of the Companies (Amendment) Act, No. 12 of 2025, disclose the details of the authorised person referred to in subsection (1).",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Details for public. 130D. (1) The Registrar shall make the details of the beneficial owners of a company promptly accessible to the public, whether electronically or physically. Such details shall be limited to the full names and former full names (if any), nationalities (including dual citizenship, where applicable), countries of residence, business addresses, and the nature and extent of beneficial ownership in the company:",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "Provided however, any member of the public seeking any further information set out in subsection (1) of section 130A, may make an application for information in terms of the provisions of the Right to Information Act, No. 12 of 2016.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Any member of the public who intends to obtain an authenticated copy of the details referred to in subsection (1) shall make an application to the Registrar accompanied by a fee as may be prescribed.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Failing to keep and maintain a register of beneficial owners of the company. 130E. If the Registrar has reasonable grounds to believe that a company-",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "has failed or fails to keep and maintain a register of beneficial owners of the company referred to in section 130A; or",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "has failed or fails to comply with any time period referred to in section 130A,",
+                      "children": []
+                    },
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "the Registrar shall, in writing issue a directive to the company instructing the company to comply with the provisions of section 130A within a period of seven working days from the date of receiving the directive.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "A claim for beneficial ownership. 130F. Notwithstanding anything to the contrary in any other written law, a claim to beneficial ownership of a company may not be claimed or be recognised for any lawful purpose, unless such beneficial ownership is disclosed and registered in the manner set out under this heading.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Offences. 130 G. (1) A company which –",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "contravenes or fails to comply with subsection (1), (3), (4), (7) or (8) of section 130A;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "knowingly provides false or misleading details about a beneficial owner of the company or the nature and extent of the beneficial ownership of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(c)",
+                      "text": "knowingly withholds details of a beneficial owner of the company that should be entered into the register referred to in subsection (1) of section 130A; or",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(d)",
+                      "text": "knowingly makes a false entry into the register referred to in subsection (1) of section 130A,",
+                      "children": []
+                    },
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "shall be guilty of an offence and be liable on conviction to a fine not exceeding one million rupees or to imprisonment of either description for a period not exceeding ten years or to both such fine and imprisonment.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Where an offence under this section is committed, then every person who at the time of the commission of the offence was a director or an officer of such company shall be deemed to have committed that offence unless such person proves that the offence was committed without such person’s knowledge, or that such person exercised all due diligence to prevent the commission of such offence.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "A shareholder, secretary or authorised person who contravenes or fails to comply with the provisions under subsection (2) of section 130A or subsection (3) of section 130 A or 130 C shall be guilty of an offence and be liable on conviction to a fine not exceeding one million rupees or to imprisonment of either description for a period not exceeding ten years or to both such fine and imprisonment.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Special provisions relating to reporting, receiving, etc. of details relating to beneficial ownership of the company. 130H. (1) Every company incorporated or registered under the Companies Act, No. 07 of 2007 or any former written law relating to companies and having beneficial owners on the date of operation of the Companies (Amendment) Act, No. 12 of 2025 shall, in the prescribed form and manner, forward to the Registrar the details relating to beneficial owners of that company in terms of section 130A within six months from the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Every depositary of a licensed stock exchange shall, within thirty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025 in the prescribed form and manner, be required to verify, report, record and notify the Registrar of the details of the shareholders of a company who held ten per cent or more of the issued shares of the company on the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Every company shall, within thirty days from the date of operation of the Companies (Amendment) Act, No. 12 of 2025, in the prescribed form and manner, be required to verify, report, record and notify the Registrar of the details of beneficial owners of the company on the date of operation of the Companies (Amendment) Act, No. 12 of 2025.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(4)",
+                  "text": "A company which contravenes or fails to comply with any provisions of this section shall be guilty of an offence and be liable on conviction to a fine not exceeding fifty thousand rupees or to imprisonment of either description for a period not exceeding six months, or to both such fine and imprisonment.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(5)",
+                  "text": "In this section, the expression “former written law relating to companies” means any written law repealed by the Companies Ordinance (Chapter 145) or the Companies Act, No. 17 of 1982 or this Act.",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Regulations. 130I. The Minister may make regulations in respect of all or any of the following matters: -",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "maintenance of the register of beneficial ownership of the company;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "reporting of an acquisition of beneficial ownership of the company; and",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(c)",
+                      "text": "for obtaining details relating to beneficial ownership of the company.",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Interpretation. 130 J. Under this heading -",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "“beneficial owner” means a natural person who ultimately owns or controls ten per cent or more of a company, in whole or in part, through, direct or indirect ownership or control of shares or voting rights or other ownership interest in that company, and also includes a natural person who exercises effective control through other means, and beneficial ownership is to be construed accordingly;",
+                      "children": []
+                    },
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "“effective control” includes a situation where control is exercised indirectly either through a chain of ownership or by appointment or removal of a director or by any other means of indirect control, such as the ability to take strategic decision that affects the operation of the company, its business practices or general direction of the company.”.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "8",
+          "marginal_note": "Amendment of section 206 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 206 of the principal enactment is hereby amended by the repeal of subsections (2) and (3) thereof and the substitution therefor, of the following new subsections: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Where a company intends to remove a director and appoint a new director in the place of the director so removed, a special notice shall be given to all shareholders of the company and it shall be the duty of the secretary to the company to send a copy of the special notice to the director who is to be removed. Such director shall be entitled to be heard at such meeting irrespective of whether or not such director is a shareholder of that company.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Upon the receipt of the special notice under subsection (2), the director concerned may, within fourteen working days from the date of receipt of the special notice make a representation to the company in writing requiring the company to notify each shareholder of the company.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(4)",
+                  "text": "The secretary to the company shall forthwith send a copy of the representation to every shareholder of the company. Where a copy of the representation has not been sent due to negligence of the company or due to the fact that the representation was received after the expiry of a period specified therein, the secretary to the company shall read out the representation at the meeting, if such director so requires:",
+                  "children": [
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "Provided that where the company is able to satisfy the court that the provisions of this section are being abused by the director concerned in order to secure unnecessary publicity of a defamatory nature, the company may seek an order of the court for costs to be paid by such director, and to refrain from sending such representation to the shareholders or reading such representation at the meeting.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "9",
+          "marginal_note": "Amendment of section 211 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 211 of the principal enactment is hereby amended in subsection (1) thereof, by the substitution for the words “valid only for one year from his appointment.” of the words and figures, “valid till the next annual general meeting subject to paragraph (b) of subsection (1) of section 133 of the Act.”.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "10",
+          "marginal_note": "Amendment of section 270 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 270 of the principal enactment is hereby amended by the repeal of paragraph (c) thereof.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "11",
+          "marginal_note": "Amendment of section 272 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 272 of the principal enactment is hereby amended by the repeal of subparagraph (i) of paragraph (a) of subsection (1) thereof.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "12",
+          "marginal_note": "Amendment of section 341 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 341 of the principal enactment is hereby amended by the repeal of subsection (3) thereof and the substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "Within one week from the date of the meetings referred to in subsection (1), or where no such meetings are held on the same date, from the date of the subsequent meeting, the liquidator shall send to the Registrar a copy of the accounts and shall make a return to him confirming the fact of the holding of the meetings and of their dates, and where the copy is not sent or the return is not made in accordance with the provisions of this subsection, the liquidator shall be guilty of an offence and on conviction, be liable a fine not exceeding fifty thousand rupees .",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "13",
+          "marginal_note": "Amendment of section 424 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 424 of the principal enactment is hereby amended in subsection (2) thereof, by the substitution for the words “it may reasonably require.”, of the following: -",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "it may reasonably require:",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided however, where an administrator is unable to provide the required information within the period of time specified in the notice made under this subsection, such administrator may forward an application to the Registrar setting out therein the reasons for such inability. Upon consideration of the application and reasons, the Registrar may extend, subject to any terms and conditions, if any, the period of time specified for the providing of information. The Registrar shall, in writing communicate his decision to the administrator and the creditors’ committee.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "14",
+          "marginal_note": "Amendment of section 471 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 471 of the principal enactment is hereby amended as follows: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(1)",
+                  "text": "in subsection (1) thereof, by the insertion immediately after paragraph (a), of the following new paragraph: -",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(aa)",
+                      "text": "persons by name or by office, to be or to act as Additional Registrars-General of Companies;",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "in subsection (2) thereof, by the substitution for the words and figure “subsection (1) as a Deputy Registrar-General of Companies”, of the words and figure “subsection (1) as an Additional Registrar-General of Companies or a Deputy Registrar-General of Companies”; and",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(3)",
+                  "text": "by the addition immediately after subsection (2) thereof, of the following new subsection: -",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(3)",
+                      "text": "Any class or category of officers of the Department of the Registrar-General of Companies may be paid incentive allowance in such manner and at such rates, and shall be subject to such conditions of service, as may be prescribed in consultation with the Minister in charge of the subject of Finance.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "15",
+          "marginal_note": "Amendment of section 472 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 472 of the principal enactment is hereby amended by the repeal of subsection (1) thereof and the substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(1)",
+                  "text": "A person who is aggrieved by an act or decision of the Registrar may appeal to the court within fifteen working days after the date of receiving notice of the act or decision or such further time as the court may allow.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "16",
+          "marginal_note": "Insertion of new section 484 A of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The following new section is hereby inserted immediately after section 484 of the principal enactment, which shall have effect as section 484A of the principal enactment: -",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“Registrar’s power to grant extension for acts. 484 A. (1) Where a company is unable to furnish such information or produce any book, register or other document before the date specified in the notice under subsection (1) of section 484, such company may make an application together with the reasons therefor to the Registrar for an extension of such period. Upon the consideration of the application and reasons, the Registrar may extend the time period subject to the terms and conditions as he may think fit to impose. The Registrar shall in writing communicate his decision to the company.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Where the company fails to comply with the direction within the extended period of time under subsection (1)—",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "the company shall be guilty of an offence and be liable on conviction to a fine not exceeding five hundred thousand rupees;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "every officer of the company who is in default shall be guilty of an offence and be liable on conviction to a fine not exceeding two hundred thousand rupees.",
+                      "children": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "17",
+          "marginal_note": "Amendment of section 487 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 487 of the principal enactment is hereby amended in subsection (5) thereof, by the substitution for the words “shall vest in and be at the disposal of the State.”, of the following: -",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“shall vest in and be at the disposal of the State:",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided that any company of which, the name has been struck off under subsection (3) may before the expiry of a period of ten years from the date of operation of the Companies (Amendment) Act, No. 12 of 2025, apply to court making the Attorney-General a party to such application and show cause to the satisfaction of the court stating reasons why such company was unable to comply with the provisions of subsection (1). After such inquiry as the court may deem necessary, the court may permit the re-registration of the company and upon such registration, make an order for the return to the company of all property previously vested in the State under this subsection:",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided further that where property vested in the State under the provisions of this subsection has been dealt with or disposed of, by the State, the rights of third parties who have acquired such rights from the State in good faith shall not be affected in any manner:",
+                  "children": []
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided however, where the property has been destroyed or damaged or, physical possession of the property has not been taken by the State, the State shall not be liable to any party in any manner.”.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "18",
+          "marginal_note": "Amendment of section 508 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 508 of the principal enactment is hereby amended by the repeal of subsection (1) thereof and substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(1)",
+                  "text": "A party to a dispute –",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "arising in giving effect to the provisions of this Act; or",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "which relates to the management of affairs of any company,",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "may request the Companies Disputes Board that the dispute may be referred to for mediation before a member of the Companies Disputes Board and the President of the Companies Disputes Board may, if he deems appropriate, refer the same for mediation to any member of the Companies Disputes Board.”.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "19",
+          "marginal_note": "Insertion of new section 513 A in the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The following new section is hereby inserted immediately after section 513 of the principal enactment, and shall have effect as section 513A of the principal enactment: -",
+              "children": [
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "“General penalties. 513 A. (1) A person, a director, a secretary or an officer who contravenes or fails to comply with any provisions of this Act or any regulation made thereunder for which no punishment is expressly provided for such offence shall be guilty of an offence and be liable on conviction to a fine not exceeding one million rupees or to imprisonment of either description for a period not exceeding six months, or to both such fine and imprisonment.",
+                  "children": []
+                },
+                {
+                  "type": "subsection",
+                  "identifier": "(2)",
+                  "text": "Where any provision of this Act is contravened or omitted or failed to comply with by a body of persons and where no punishment is expressly provided in this Act, if such body of persons –",
+                  "children": [
+                    {
+                      "type": "subsection",
+                      "identifier": "(a)",
+                      "text": "is a body corporate, every director, manager or secretary of such body corporate;",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(b)",
+                      "text": "is a firm, every partner of that firm; or",
+                      "children": []
+                    },
+                    {
+                      "type": "subsection",
+                      "identifier": "(c)",
+                      "text": "is an unincorporated body other than a firm, every member of such body,",
+                      "children": []
+                    },
+                    {
+                      "type": "paragraph",
+                      "identifier": null,
+                      "text": "shall be deemed to have committed an offence and shall, on conviction be liable to a fine not exceeding five hundred thousand rupees or to imprisonment of either description for a period not exceeding one year or to both such fine and imprisonment:",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "type": "paragraph",
+                  "identifier": null,
+                  "text": "Provided however, that no such person shall be deemed to be guilty an offence if he proves that the offence was committed without his knowledge or that he exercised all due diligence to prevent the commission of the offence.”.",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "20",
+          "marginal_note": "Amendment of section 529 of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "Section 529 of the principal enactment is hereby amended by the repeal of paragraph (a) of the definition of the expression “distribution” and the substitution therefor, of the following: -",
+              "children": [
+                {
+                  "type": "subsection",
+                  "identifier": "(a)",
+                  "text": "the direct or indirect transfer of money or property other than the shares of the company, to or for the benefit of a shareholder; or",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "section_number": "21",
+          "marginal_note": "Amendment of certain sections of the principal enactment",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "The sections of the principal enactment specified in Column I of the Schedule hereto, are hereby amended by the substitution for the words and figures specified in the corresponding entry in Column II, of the words and figures specified in the corresponding entry in Column III of that Schedule.",
+              "children": []
+            }
+          ]
+        },
+        {
+          "section_number": "22",
+          "marginal_note": "Sinhala text to prevail in case of inconsistency",
+          "note": null,
+          "content": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "In the event of any inconsistency between the Sinhala and Tamil texts of this Act, the Sinhala text shall prevail.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "Schedule",
+      "division_number": "SCHEDULE",
+      "division_title": null,
+      "schedule_number": "SCHEDULE",
+      "schedule_title": null,
+      "schedule_reference": "[section 21]",
+      "content": [
+        {
+          "part_title": null,
+          "items": [
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "No. | Column I Sections Amended | Column II Repeal | Column III Insert",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "1 | 19(2) | paragraph “(c)” | paragraph “(b)”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "2 | 28(1) | “comply with the requirments” | “comply with the requirements”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "3 | 37(3)(a) | “to the shatres or debentures;” | “to the shares or debentures;”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "4 | 40(3)(b) | “the dosuments (if any)” | “the documents (if any)”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "5 | 40(4) | “Where a prosopectus” | “Where a prospectus”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "6 | 41 (Marginal Note) | “Civil liability untrue in prospectus” | “Civil liability in respect of untrue statement in prospectus.”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "7 | 41(2)(c) | “pubilc notice” | “public notice”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "8 | 44(b) | “referrence incorporated” | “reference incorporated”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "9 | 61(3)(b) | “relive the director” | “relieve the director”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "10 | 64(3)(a) | “makes and offer” | “makes an offer”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "11 | 67(2)(b) | “pruposes of section 56.” | “purposes of section 56.”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "12 | 77(1) | “title to the shares or debters”, | “title to the shares or debtors”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "13 | 84(2) | “same priorites” | “same priorities”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "14 | 84(4) | “issue of another denenture”, | “issue of another debenture”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "15 | 84(5) | “priority which any person would have had”, | “priority which any person would have had”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "16 | 86(3) | “shares have been transfered”, | “shares have been transferred”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "17 | 92(1)(b) | “transaction for the purpose”, | “transaction for the purpose”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "18 | 92(1)(e) | “suchection (1)”, | subsection (1)\".",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "19 | 95(2) | “under susection (1)”, | “under subsection (1)”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "20 | 98(2) | “and the compnay” | “and the company”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "21 | 102(4) | “provisions of this secetion,” | “provisions of this section,”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "22 | 102(11)(a) | “fifty thouand rupees;”, | “fifty thousand rupees;”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "23 | 111(4) | “fails to compaly”, | “fails to comply”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "24 | 116(2) | “and the refereces is paragraph (h)”, | “and the references in paragraph (h)”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "25 | 119(1)(b) | “written communications to all sharehloders”, | “written communications to all shareholders”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "26 | 127 | “any nawspaper circulating”, | “any newspaper circulating”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "27 | 129(1) | “entered on the shareregister”, | “entered on the share register”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "28 | 142(5) | “company’s costs on an applicaition”, | “company’s cost on an application”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "29 | 152(1)(c) | “sign on behlaf”, | “signed on behalf”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "30 | 167(1) | “annual general meeting report”, | “annual report”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "31 | 168(1)(j) | “subsidaries”, | “subsidiaries”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "32 | 168(2) | “in paragraphs (b) to (j) of subsection (1).”, | “in paragraphs (d) to (j) of subsection (1).”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "33 | 175(5) | “Notwithstansing”, | “Notwithstanding”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "34 | 180(4) | “where an inspector is appinted”, | “where an inspector is appointed”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "35 | 182(3) | “appeal to the court”, | “appeal to the court”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "36 | 185(2) | “corporal or incorporeal”, | “corporeal or incorporeal”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "37 | 220(1) | “working days form”, | “working days from”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "38 | 220(4) | “auothorises or permits”, | “authorises or permits”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "39 | 228(c) | (iiii) | (iii)",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "40 | 241(3)(e) | “necessary to enble” | “necessary to enable”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "41 | 242(1)(b)(iii) | “the board is satified”, | “ the board is satisfied”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "42 | 242(5) | “shall sign a cerificate” | “shall sign a certificate”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "43 | 245(f) | “by or against an amagamating”, | “by or against an amalgamating”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "44 | 246(3) | “whcih are to be so acquired”, | “which are to be so acquired”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "45 | 248(2) | “under paragraph (d) of subsection (1)”, | “under paragraph (e) of subsection (1)”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "46 | 249(2)(b)(vii) | “containing detalis”, | “containing details”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "47 | 273(1) | “On hearing a winding-up pritition”, | “On hearing a winding up petition”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "48 | 274(b) | “to restrain further peoceedings”, | “to restrain further proceedings”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "49 | 283(1) | \"when the securites were respectively given”, | “when the securities were respectively given”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "50 | 284(1) | “In the case where a windingup order”, | “In the case where a winding up order” .",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "51 | 287 | “shall have affact”, | “shall have effect\".",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "52 | 290 | “Where a windingup order”, | “Where a winding up order”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "53 | 292(2)(c) | “sequsetration in respect of that balance as a separate debt due from the bankrupt or insolvent, and ratebly with the other seperate creditors;”. | “sequestration in respect of that balance separate debt due from the bankrupt or insolvent, and ratebly with the other separate creditors ”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "54 | 292(2)(h) | “windingup the affairs” | “winding up the affairs”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "55 | 296(4) | “prescrihed fee”, | “prescribed fee”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "56 | 298(1) | “made a final retuen”, | “made a final return”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "57 | 298(3) | “discharge him form all liability”, | “discharge him from all liability”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "58 | 299(1) | “seperate meetings”, | “separate meetings”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "59 | 324(1) | “not exceeding twelve moths” | “not exceeding twelve months”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "60 | 326(2) | “directors shall cease, execpt”, | “directors shall cease, except”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "61 | 328(1) | “on the liquidator or an anthority”, | “on the liquidator or an authority”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "62 | 352 | “for the prupose of giving jurisdiction”, | “for the purpose of giving jurisdiction”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "63 | 358(11)(a) | “makes or authourises”, | “makes or authorizes”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "64 | 373(4)(a) | “the period of one moth”, | “period of one month”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "65 | 377(6) | “the lessor’s convenants in the lease”, | “the lessor’s covenants in the lease”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "66 | 387 | “shall be exempt form stamp duty”, | “shall be exempt from the stamp duty”.”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "67 | 389(3) | “appeal to the Court of Appeal”, | “appeal to the courts”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "68 | 396(3) | “to the Deputy Secretaty”, | “to the Deputy Secretary”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "69 | 404(5) | “shall prepare proposals in accodroance with”, | “shall prepare proposals in accordance with”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "70 | 414 (Marginal Note) | “Consent to be appointmented.” | “Consent to be appointed.”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "71 | 428(2) | “shall be registrered”, | “shall be registered”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "72 | 428(3) | “sections 16 to 22 of the Registration of Decuments Ordinance”, | “sections 16 to 22 of the Registration of Documents Ordinance”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "73 | 431(6) | “unless the floating charge was registered in repsect of that land”, | “unless the floating charge was registered in respect of that land”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "74 | 449(2)(a) | “to obtain the mortagee’s consent”, | “to obtain the mortgagee’s consent”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "75 | 450(3)(d) | “called upon to fulfil obligations”, | “called upon to fulfill obligations”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "76 | 450(4) | “refrains form acting” | “refrains from acting”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "77 | 470(1) | “for the pruposes”, | “for the purposes”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "78 | 472(2) | “court” (wherever it appears in that subsection) | “court”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "79 | 481(3) | “nothing in this section shall, rejudice the operation”, | “nothing in this section shall, prejudice the operation”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "80 | 482 | “Department of the Registrar-General” (wherever occurs) | “Department of the Registrar-General of Companies”",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "81 | 514(1) | “credited to the Fund estabilshed under this Act.”, | “credited to the Fund established under this Act.”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "82 | 519(3)(c) | “a pertnership formed for the purpose”, | “a partnership formed for the purpose”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "83 | First Schedule 17(3) | “less that ten per centum”, | “less than ten per centum”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "84 | First Schedule 17(4) | “less that ten per centum”, | “less than ten per centum”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "85 | First Schedule 31(1) | “board may form time to time” | “board may from time to time”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "86 | Fourth Schedule Part I 7 | “each provious allotment”, | “each previous allotment”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "87 | Fourth Schedule Part I 9 | “those shates or debentures”, | “those shares or debentures”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "88 | Fourth Schedule Part II 20(3)(b)(i) | “combine assest and liabilities”, | “combine assets and liabilities”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "89 | Fourth Schedule Part II 20(3)(b)(ii) | “assets and liabilites” | “assets and liabilities”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "90 | Fourth Schedule Part II 22(1)(a) | “shares or debentrures” | “shares and debentures”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "91 | Fourth Schedule Part II 22(2)(b) | “body corporate has subsidaries” | “body corporate has subsidiaries”.",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "92 | Fifth Schedule (a) | “general meering” | “general meeting”;",
+              "children": []
+            },
+            {
+              "type": "paragraph",
+              "identifier": null,
+              "text": "93 | Fifth Schedule (b) | “shareholders at the date of the retuen” | “shareholders at the date of the return”.",
+              "children": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
