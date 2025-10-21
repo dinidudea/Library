@@ -505,6 +505,11 @@
             }
 
             function renderBody(body, container) {
+                if (!body || !Array.isArray(body)) {
+                    console.error('Body is undefined or not an array:', body);
+                    return;
+                }
+
                 body.forEach(element => {
                     const elDiv = document.createElement('div');
                     
@@ -515,7 +520,7 @@
                     } else if (element.type === 'MainBody') {
                         element.sections.forEach(section => elDiv.appendChild(renderSection(section)));
                     } else if (element.type === 'AmendmentBody') {
-                        elDiv.appendChild(renderAmendmentBody(element.instructions));
+                        elDiv.appendChild(renderAmendmentBody(element.sections));
                     } else if (element.type === 'Schedule') {
                         elDiv.appendChild(renderSchedule(element));
                     }
