@@ -610,7 +610,7 @@
             function renderSchedule(schedule) {
                 const scheduleDiv = document.createElement('div');
                 scheduleDiv.className = 'schedule';
-                
+
                 scheduleDiv.innerHTML += `<h3 class="schedule-title">${schedule.schedule_number || ''}</h3>`;
                 if(schedule.schedule_reference) {
                     scheduleDiv.innerHTML += `<p class="schedule-reference">${schedule.schedule_reference}</p>`;
@@ -621,13 +621,33 @@
 
                 if (schedule.schedule_type === 'table') {
                     scheduleDiv.appendChild(renderScheduleTable(schedule.content));
-                } else {
-                    schedule.content.forEach(part => {
-                        if (part.part_title) {
-                            scheduleDiv.innerHTML += `<h4 class="schedule-part-title">${part.part_title}</h4>`;
-                        }
-                        part.items.forEach(item => scheduleDiv.appendChild(renderContentBlock(item)));
-                    });
+                } else if (schedule.content && schedule.content.length > 0) {
+                    // Handle different content structures
+                    if (schedule.content[0].items) {
+                        // Original structure with parts and items
+                        schedule.content.forEach(part => {
+                            if (part.part_title) {
+                                scheduleDiv.innerHTML += `<h4 class="schedule-part-title">${part.part_title}</h4>`;
+                            }
+                            if (part.items) {
+                                part.items.forEach(item => scheduleDiv.appendChild(renderContentBlock(item)));
+                            }
+                        });
+                    } else {
+                        // Handle schedule content as direct items (like in companies amendment act)
+                        schedule.content.forEach(item => {
+                            if (item.type === 'paragraph' && item.text) {
+                                // Check if this looks like a table header row
+                                if (item.text.includes('|') && item.text.includes('Column I') && item.text.includes('Column II')) {
+                                    scheduleDiv.appendChild(renderScheduleTableFromText(item.text));
+                                } else {
+                                    scheduleDiv.appendChild(renderContentBlock(item));
+                                }
+                            } else {
+                                scheduleDiv.appendChild(renderContentBlock(item));
+                            }
+                        });
+                    }
                 }
                 return scheduleDiv;
             }
@@ -649,6 +669,44 @@
                     tbody.innerHTML += rowHtml;
                 });
                 table.appendChild(tbody);
+                return table;
+            }
+
+            function renderScheduleTableFromText(text) {
+                const table = document.createElement('table');
+
+                // Split the text into lines and process each line
+                const lines = text.split('\n').filter(line => line.trim());
+
+                if (lines.length === 0) return table;
+
+                // Process header row
+                const headerLine = lines[0];
+                const headers = headerLine.split('|').map(h => h.trim()).filter(h => h);
+
+                let theadHtml = '<thead><tr>';
+                headers.forEach(header => {
+                    theadHtml += `<th>${header}</th>`;
+                });
+                theadHtml += '</tr></thead>';
+                table.innerHTML = theadHtml;
+
+                // Process data rows
+                const tbody = document.createElement('tbody');
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i].trim();
+                    if (line && line.includes('|')) {
+                        const cells = line.split('|').map(cell => cell.trim()).filter(cell => cell);
+                        let rowHtml = '<tr>';
+                        cells.forEach(cell => {
+                            rowHtml += `<td>${cell}</td>`;
+                        });
+                        rowHtml += '</tr>';
+                        tbody.innerHTML += rowHtml;
+                    }
+                }
+                table.appendChild(tbody);
+
                 return table;
             }
             
